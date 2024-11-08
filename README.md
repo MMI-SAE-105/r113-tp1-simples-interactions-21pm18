@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Kocaoglu
+- prénom : Manolia
+- URL Netlify : https://charming-kitsune-ee88e1.netlify.app 
 
 # Travail
 
